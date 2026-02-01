@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Might Use This In The Future",
+    "category": "Apparel",
+    "price": "$ \u2014",
+    "url": "https://probablynotthough.com/item-name",
+    "cta": "View"
+  },
+  {
+    "name": "TST Desk Mat",
+    "category": "Gear",
+    "price": "$ \u2014",
+    "url": "https://example.com/deskmat",
+    "cta": "View"
+  }
+]

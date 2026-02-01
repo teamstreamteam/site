@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>TeamStreamTeam • Home</title>
+    <meta name="description" content="TeamStreamTeam — your source for fun and informative content!" />
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body data-page="home" data-root="./">
+    <img class="banner" src="./assets/misc/banner.png" alt="TeamStreamTeam banner" />
+
+    <nav class="nav" aria-label="Main">
+      <div class="container nav-inner">
+        <a class="brand" href="./" aria-label="TeamStreamTeam home">
+          <img src="./assets/misc/tstlogo.png" alt="TeamStreamTeam logo" />
+          <span class="brand-text">
+            <span class="title">TeamStreamTeam</span>
+            <span class="tagline">streams • clips • cards • crypto</span>
+          </span>
+        </a>
+
+        <div class="nav-links">
+          <a href="./" data-nav="home">Home</a>
+          <a href="https://tstore.printful.me/" target="_blank" rel="noopener" data-nav="store">Store</a>
+          <a href="./about/" data-nav="about">About</a>
+        </div>
+      </div>
+    </nav>
+
+    <main>
+      <section class="hero">
+        <div class="container">
+          <h1>Welcome to TeamStreamTeam</h1>
+          <p>
+            Small squad, big vibes.
+          </p>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container">
+          <div class="section-title">
+            <h2>Meet the Team</h2>
+            <div class="hint">Get to know us a bit!</div>
+          </div>
+
+          <div id="team-grid" class="team-grid" aria-label="Team members">
+            <noscript>
+              <div class="card" style="padding:14px;">
+                JavaScript is required to render the team cards.
+              </div>
+            </noscript>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="container footer-inner">
+        <div class="pill">© <span id="year"></span> TeamStreamTeam</div>
+        <div class="pill">Built for GitHub Pages • HTML/CSS/JS</div>
+      </div>
+    </footer>
+
+    <script src="./js/main.js"></script>
+  </body>
+</html>

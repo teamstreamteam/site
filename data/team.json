@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bonk",
+    "name": "Bonk",
+    "discord": "Discord: bonkthat",
+    "youtube": "https://youtube.com/c/teamstreamteam",
+    "twitter": "https://x.com/bonkthatbutt",
+    "abstract": "https://portal.abs.xyz/profile/0x60888c5223619a36f8b8024a008db7d785ead086",
+    "blurb": "The most handsome and generous card-slingin' streamer you've ever seen. Guaranteed."
+  },
+  {
+    "id": "themudman",
+    "name": "TheMudMan",
+    "discord": "Discord: themudman.",
+    "youtube": "https://youtube.com/c/teamstreamteam",
+    "twitter": "https://x.com/themudman_gu",
+    "abstract": "https://portal.abs.xyz/profile/0xd90b129a9a9d5c8022871ff2828ddb96431f3951",
+    "blurb": "The Deck Doctor himself. This man makes metas. And tall cups of mud."
+  },
+  {
+    "id": "cautionfun",
+    "name": "CautionFun",
+    "discord": "Discord: cautionfun",
+    "youtube": "https://youtube.com/c/cautionfun",
+    "twitter": "https://x.com/cautionfun_",
+    "abstract": "https://portal.abs.xyz/profile/0x490182640f083b77cf487d68b1f5b78bd0decb83",
+    "blurb": "Watch out! Fun! Probably ripping packs of something or spouting on about the merits of blockchain tech."
+  },
+  {
+    "id": "theprofesserf",
+    "name": "TheProfesserf",
+    "discord": "Discord: professerf",
+    "youtube": "https://youtube.com/c/theprofesserf",
+    "twitter": "https://x.com/theprofesserf",
+    "abstract": "https://portal.abs.xyz/profile/0x73de3d7056c77a6ac965871d0488d1cdc5e9216b",
+    "blurb": "School is in session! Calm, clever, and always killing the competition with kindness. Or making friends he's so nice."
+  }
+]
